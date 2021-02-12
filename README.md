@@ -1,2 +1,1 @@
-# blockchain-python_homework
-Week 19
+# Multi-Blockchain Wallet in Python
